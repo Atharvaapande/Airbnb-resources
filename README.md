@@ -1,7 +1,8 @@
 # Airbnb-style Web Page
 
 This project aims to replicate the Airbnb website's user interface using HTML and CSS. It consists of a static web page with navigation, search bar, filters, and a display of property listings.
-![Uploading airbnbClone.png…]()
+<img width="1261" alt="airbnbClone" src="https://github.com/Atharvaapande/Airbnb-resources/assets/128508298/7866bbe5-114d-47a3-8e38-cb31f49a8577">
+
 
 ## Getting Started
 
